@@ -1,0 +1,16 @@
+{
+    "students":{
+        "desc":"There are 30 students in Ruby. Class numbers are arranged using the following rules...",
+        "keywords":"people",
+        "searchable":true,
+        "url":"articles/students/"
+        
+    },
+    "gabee's substitution cipher":{
+        "desc":"Gabee's Substitution Cipher was originally made by Gabee De Vera in order to communicate safely with friends. This cipher substitutes names of people for keywords.",
+        "keywords":"gabee de vera 7 ruby luminance illumination",
+        "searchable":true,
+        "url":"articles/gabee's_substitution_cipher/"
+        
+    }
+}

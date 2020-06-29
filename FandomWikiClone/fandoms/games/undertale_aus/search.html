@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../../../style.css">
+    <title>WikiClone Search Page</title>
+</head>
+<body>
+    <nav class="header">
+        <img height="50" class=".header-img" src="../../../fandomwikiicon.ico" style="height:var(--header-cell-height);filter:invert(100%);background-color:var(--header-menu-text-color-inv);"> 
+<a class="fandom-title">
+    Undertale AU Search Page
+</a>
+    </nav>
+    <nav class="header" style="position:static;">
+        <a target="_blank" href="index.html"><h1>Home</h1></a>
+        <a target="_blank" href="search.html"><h1>Search</h1></a>
+    </nav>
+    <main class="content search">
+        <button onclick="searchArticles()">Go!</button><input placeholder="Search" id="searchbox">
+    </main>
+    <main class="content results" id="content">
+
+    </main>
+    <script>var jsonfile="articles.json";</script>
+    <script src="../../../search.js"></script>
+</body>
+</html>

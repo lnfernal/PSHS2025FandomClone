@@ -1,0 +1,14 @@
+{
+    "rubytale":{
+        "desc":"Rubytale is an Undertale Alternative Universe originally conceptualized by Gabee De Vera(RedBlazerFlame), Sarah Veloso(SarahVeloso6606), Lauren Valencia(MagicalMyu), and Craig Adan(TDArmy).",
+        "keywords":"ruby undertale gabee craig lauren sarah",
+        "searchable":true,
+        "url":"articles/rubytale/"
+    },
+    "storyshift":{
+        "desc":"Storyshift is an AU, which is like Storyswap, but pairs of swaps are also swapped with one another.",
+        "keywords":"underswap shift swap",
+        "searchable":true,
+        "url":"articles/storyshift/"
+    }
+}

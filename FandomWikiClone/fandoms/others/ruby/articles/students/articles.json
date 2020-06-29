@@ -1,0 +1,45 @@
+{
+    "Jairo":{
+        "desc":"Jairo is class number R01. He is the President of Ruby.",
+        "keywords":"guitar nissi president glasses",
+        "searchable":true,
+        "url":"../students_b_aban/"
+        
+    },
+    "Craig":{
+        "desc":"Craig is class number R03. He is one of the class artists.",
+        "keywords":"artist piano undertale minecraft kindness gluon gerson tdarmy",
+        "searchable":true,
+        "url":"../students_b_adan/"
+        
+    },
+    "Gabee":{
+        "desc":"Gabee is class number R09. He is the class Vice-President.",
+        "keywords":"piano violin recorder boi undertale minecraft determination graviton asriel integrity redblazerflame protondecay314",
+        "searchable":true,
+        "url":"../students_b_de vera/"
+        
+    },
+    "Patric":{
+        "desc":"Patric is class number R15. He is an OG MTP member and plays piano a lot. He is known to fall asleep in class.",
+        "keywords":"piano sleeping namimihasa tulog likes emm MTP mtp",
+        "searchable":true,
+        "url":"../students_b_legaspi/"
+        
+    },
+    "Lauren":{
+        "desc":"Lauren is class number R29. She is the director of The World is an Apple, a drama re-enacted by 12 ruby students for english.",
+        "keywords":"artist writer undertale wondertale luminance proton chara",
+        "searchable":true,
+        "url":"../students_g_valencia/"
+        
+    },
+    "Sarah":{
+        "desc":"Sarah is class number R30. She led the IS Live Exhibit.",
+        "keywords":"artist undertale illumination radiation frisk",
+        "searchable":true,
+        "url":"../students_g_veloso/"
+        
+    }
+    
+}

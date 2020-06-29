@@ -1,0 +1,21 @@
+{
+    "undertale":{
+        "desc":"Undertale is an RPG game created by developer Toby Fox. It is a unique RPG experience, because unlike other RPGs, you don&apos;t need to kill monsters to finish the game. In fact, you are encouraged to use the mercy option repeatedly.",
+        "keywords":"temmie 2015",
+        "searchable":true,
+        "url":"fandoms/games/undertale/"
+        
+    },
+    "undertale_aus":{
+        "desc":"Undertale Alternative Universes(AUs), are variations on an original universe, in this case, Undertale.",
+        "keywords":"",
+        "searchable":true,
+        "url":"fandoms/games/undertale_aus/"
+    },
+    "ruby":{
+        "desc":"7-Ruby is a section from Philippine Science High School.",
+        "keywords":"pisay 2025 maingay makulit noisy loud crammers cramming yes",
+        "searchable":true,
+        "url":"fandoms/others/ruby/"
+    }
+}
