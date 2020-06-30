@@ -9,7 +9,7 @@
     "gabee's substitution cipher":{
         "desc":"Gabee's Substitution Cipher was originally made by Gabee De Vera in order to communicate safely with friends. This cipher substitutes names of people for keywords.",
         "keywords":"gabee de vera 7 ruby luminance illumination",
-        "searchable":true,
+        "searchable":false,
         "url":"articles/gabee's_substitution_cipher/"
         
     }
